@@ -1,2 +1,2 @@
 # kodluyoruzilkhtml
-Bu çalışma ise Kodluyoruz aracılığıyla aldığım Başlangıç Seviye Frontend Web Development Patikası'na ait HTML dersinin ilk çıktısı olarak tarafımca hazırlandı.
+Bu çalışma Kodluyoruz aracılığıyla aldığım Başlangıç Seviye Frontend Web Development Patikası'na ait HTML dersinin ilk çıktısı olarak tarafımca hazırlandı.
